@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+google-cloud-bigquery
+python-dotenv
+fpdf
+langchain
+openai
