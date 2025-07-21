@@ -6,3 +6,5 @@ python-dotenv
 fpdf
 langchain
 openai
+langchain-community
+langchain-openai
