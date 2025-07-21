@@ -8,3 +8,4 @@ langchain
 openai
 langchain-community
 langchain-openai
+db-dtypes
