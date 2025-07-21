@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.key
+*.pem
+
+# Streamlit cache
+.streamlit/
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keys and credentials
+Keys/
+*.json
+
+# Exported files
+*.csv
+*.pdf
+
+# Virtual environments
+venv/
+.env/
